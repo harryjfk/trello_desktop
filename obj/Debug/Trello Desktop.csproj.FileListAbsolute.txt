@@ -1,0 +1,143 @@
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\bin\Debug\Trello Desktop.exe
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\bin\Debug\Trello Desktop.pdb
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\obj\Debug\Trello Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\obj\Debug\Trello_Desktop.Properties.Resources.resources
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\obj\Debug\Trello Desktop.csproj.GenerateResource.Cache
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\obj\Debug\Trello Desktop.exe.licenses
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\obj\Debug\Trello Desktop.exe
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\obj\Debug\Trello Desktop.pdb
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\obj\Debug\Trello_Desktop.RibbonForm1.resources
+C:\Users\Administrador\documents\visual studio 2013\Projects\Trello Desktop\DXApplication1\Trello Desktop\obj\Debug\Trello_Desktop.NewProyectForm.resources
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\obj\Debug\Trello Desktop.exe
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\obj\Debug\Trello Desktop.pdb
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\Trello Desktop.exe
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\Trello Desktop.pdb
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Data.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Images.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Utils.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraBars.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraScheduler.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraScheduler.v16.2.Extensions.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraSpellChecker.v16.2.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.SpellChecker.v16.2.Core.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Office.v16.2.Core.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Data.v16.2.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Utils.v16.2.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraBars.v16.2.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraScheduler.v16.2.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraScheduler.v16.2.Core.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraScheduler.v16.2.Extensions.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\Newtonsoft.Json.pdb
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\Newtonsoft.Json.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.XtraSpellChecker.v16.2.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.SpellChecker.v16.2.Core.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\DevExpress.Office.v16.2.Core.xml
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.XtraScheduler.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.XtraScheduler.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.XtraScheduler.v16.2.Extensions.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.XtraScheduler.v16.2.Extensions.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.XtraScheduler.v16.2.Extensions.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.XtraScheduler.v16.2.Extensions.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.XtraSpellChecker.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.XtraSpellChecker.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.XtraSpellChecker.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.XtraSpellChecker.v16.2.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\obj\Debug\Trello Desktop.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\obj\Debug\Trello_Desktop.NewProyectForm.resources
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\obj\Debug\Trello_Desktop.Properties.Resources.resources
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\obj\Debug\Trello_Desktop.RibbonForm1.resources
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\obj\Debug\Trello Desktop.csproj.GenerateResource.Cache
+E:\Nueva carpeta (2)\Documentos\Visual Studio 2013\Projects\Trello Desktop\Trello Desktop\obj\Debug\Trello Desktop.exe.licenses
